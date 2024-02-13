@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>airoadmap.org on Artificial Intelligence (AI) Roadmap for SMEs and Corporates Build, Innovate, and Grow.</title>
+    <title>The AI Assembly Line on Artificial Intelligence (AI) Roadmap for SMEs and Corporates Build, Innovate, and Grow.</title>
     <link>https://airoadmap.org/</link>
-    <description>Recent content in airoadmap.org on Artificial Intelligence (AI) Roadmap for SMEs and Corporates Build, Innovate, and Grow.</description>
+    <description>Recent content in The AI Assembly Line on Artificial Intelligence (AI) Roadmap for SMEs and Corporates Build, Innovate, and Grow.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Feb 2024 18:30:08 +1000</lastBuildDate><atom:link href="https://airoadmap.org/index.xml" rel="self" type="application/rss+xml" />
@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>AI &amp; Data Insights</title>
+      <link>https://airoadmap.org/docs/data-machine-learning/</link>
+      <pubDate>Wed, 07 Feb 2024 17:30:08 +1000</pubDate>
+      
+      <guid>https://airoadmap.org/docs/data-machine-learning/</guid>
+      <description>Insight into the author&amp;rsquo;s background and expertise in AI and business.</description>
+    </item>
+    
+    <item>
       <title>AI Business Usecase</title>
       <link>https://airoadmap.org/docs/ai-business-usecase/</link>
       <pubDate>Wed, 07 Feb 2024 19:30:08 +1000</pubDate>
@@ -44,7 +53,7 @@
     </item>
     
     <item>
-      <title>About The Author</title>
+      <title>Author</title>
       <link>https://airoadmap.org/docs/author/</link>
       <pubDate>Wed, 07 Feb 2024 17:30:08 +1000</pubDate>
       
